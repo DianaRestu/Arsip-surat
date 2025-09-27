@@ -11,8 +11,8 @@ Dibuat menggunakan Flask (Python) dan MySQL.
 6. Halaman About berisi identitas pembuat.
 
 # Cara Menggunakan
-1. Arsipkan Surat: Klik tombol “Arsipkan Surat..”, isi judul, pilih kategori, dan upload file PDF.
-2. Lihat Detail Surat: Pada daftar arsip klik tombol “Lihat >>” untuk melihat detail dan preview PDF.
-3. Download Surat: Klik tombol Unduh pada detail atau daftar arsip.
-4. Kelola Kategori: Buka menu Kategori Surat untuk tambah/edit/hapus kategori.
-5. About: Menu About menampilkan identitas pembuat aplikasi.
+1.	Buka Terminal di Python
+2.	Ketik python app.py dan akan muncul link localhost
+3.	Salin link localhost https://127.0.1:5000
+4.	Tempel link localhost ke browser
+5.	Sebelumnya Aktifkan MYSQL 
